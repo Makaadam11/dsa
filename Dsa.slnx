@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Dsa.Runner/Dsa.Runner.csproj"/>
+    <Project Path="src/Dsa/Dsa.csproj"/>
+    <Project Path="src/Tasks.Runner/Tasks.Runner.csproj"/>
+    <Project Path="src/Tasks/Tasks.csproj"/>
+    <Project Path="src/Live.Runner/Live.Runner.csproj"/>
+    <Project Path="src/Live/Live.csproj"/>
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Dsa.Tests/Dsa.Tests.csproj"/>
+    <Project Path="tests/Tasks.Tests/Tasks.Tests.csproj"/>
+  </Folder>
+</Solution>
